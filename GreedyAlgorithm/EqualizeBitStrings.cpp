@@ -40,3 +40,12 @@ int main()
     }
     cout<<x<<endl;
 }
+/*
+Input : 
+3
+100
+001
+
+Output:
+2
+*/
